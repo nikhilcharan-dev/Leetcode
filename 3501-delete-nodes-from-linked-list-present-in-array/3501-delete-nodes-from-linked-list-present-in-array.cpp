@@ -24,10 +24,11 @@ public:
         while(temp) {
             if(mp[temp->val]) {
                 prev->next = temp->next;
+            }
+            else{
                 prev = prev->next;
             }
-            prev = temp;
-            temp = temp->next;
+            temp = prev->next;
         }
 
         return head;
