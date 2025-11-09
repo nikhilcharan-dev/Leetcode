@@ -16,9 +16,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [2288-count-operations-to-obtain-zero](https://github.com/nikhilcharan-dev/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/nikhilcharan-dev/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Linked List
 |  |
 | ------- |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/nikhilcharan-dev/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+## Simulation
+|  |
+| ------- |
+| [2288-count-operations-to-obtain-zero](https://github.com/nikhilcharan-dev/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 <!---LeetCode Topics End-->
