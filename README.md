@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/nikhilcharan-dev/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [1013-fibonacci-number](https://github.com/nikhilcharan-dev/Leetcode/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
@@ -63,4 +64,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/nikhilcharan-dev/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/nikhilcharan-dev/Leetcode/tree/master/0005-longest-palindromic-substring) |
+## String
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/nikhilcharan-dev/Leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
