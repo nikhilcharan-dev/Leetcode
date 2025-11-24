@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/nikhilcharan-dev/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0072-edit-distance](https://github.com/nikhilcharan-dev/Leetcode/tree/master/0072-edit-distance) |
 | [1013-fibonacci-number](https://github.com/nikhilcharan-dev/Leetcode/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/nikhilcharan-dev/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0072-edit-distance](https://github.com/nikhilcharan-dev/Leetcode/tree/master/0072-edit-distance) |
 ## Bit Manipulation
 |  |
 | ------- |
