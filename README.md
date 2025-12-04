@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2211-count-collisions-on-a-road](https://github.com/nikhilcharan-dev/Leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/nikhilcharan-dev/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/nikhilcharan-dev/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 ## Dynamic Programming
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/nikhilcharan-dev/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0072-edit-distance](https://github.com/nikhilcharan-dev/Leetcode/tree/master/0072-edit-distance) |
+| [2211-count-collisions-on-a-road](https://github.com/nikhilcharan-dev/Leetcode/tree/master/2211-count-collisions-on-a-road) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -97,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2141-maximum-running-time-of-n-computers](https://github.com/nikhilcharan-dev/Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
+## Stack
+|  |
+| ------- |
+| [2211-count-collisions-on-a-road](https://github.com/nikhilcharan-dev/Leetcode/tree/master/2211-count-collisions-on-a-road) |
 <!---LeetCode Topics End-->
