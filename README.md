@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0717-1-bit-and-2-bit-characters](https://github.com/nikhilcharan-dev/Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
+| [0885-spiral-matrix-iii](https://github.com/nikhilcharan-dev/Leetcode/tree/master/0885-spiral-matrix-iii) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/nikhilcharan-dev/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/nikhilcharan-dev/Leetcode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/nikhilcharan-dev/Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0885-spiral-matrix-iii](https://github.com/nikhilcharan-dev/Leetcode/tree/master/0885-spiral-matrix-iii) |
 | [2211-count-collisions-on-a-road](https://github.com/nikhilcharan-dev/Leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/nikhilcharan-dev/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/nikhilcharan-dev/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0885-spiral-matrix-iii](https://github.com/nikhilcharan-dev/Leetcode/tree/master/0885-spiral-matrix-iii) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/nikhilcharan-dev/Leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2625-increment-submatrices-by-one](https://github.com/nikhilcharan-dev/Leetcode/tree/master/2625-increment-submatrices-by-one) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/nikhilcharan-dev/Leetcode/tree/master/3742-maximum-path-score-in-a-grid) |
