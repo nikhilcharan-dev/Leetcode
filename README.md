@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3432-count-partitions-with-even-sum-difference](https://github.com/nikhilcharan-dev/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/nikhilcharan-dev/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/nikhilcharan-dev/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3531-count-covered-buildings](https://github.com/nikhilcharan-dev/Leetcode/tree/master/3531-count-covered-buildings) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/nikhilcharan-dev/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/nikhilcharan-dev/Leetcode/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Hash Table
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/nikhilcharan-dev/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/nikhilcharan-dev/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3531-count-covered-buildings](https://github.com/nikhilcharan-dev/Leetcode/tree/master/3531-count-covered-buildings) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/nikhilcharan-dev/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Math
 |  |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2141-maximum-running-time-of-n-computers](https://github.com/nikhilcharan-dev/Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/nikhilcharan-dev/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [3531-count-covered-buildings](https://github.com/nikhilcharan-dev/Leetcode/tree/master/3531-count-covered-buildings) |
 ## Two Pointers
 |  |
 | ------- |
