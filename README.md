@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/nikhilcharan-dev/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3531-count-covered-buildings](https://github.com/nikhilcharan-dev/Leetcode/tree/master/3531-count-covered-buildings) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/nikhilcharan-dev/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3606-coupon-code-validator](https://github.com/nikhilcharan-dev/Leetcode/tree/master/3606-coupon-code-validator) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/nikhilcharan-dev/Leetcode/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Hash Table
 |  |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/nikhilcharan-dev/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3531-count-covered-buildings](https://github.com/nikhilcharan-dev/Leetcode/tree/master/3531-count-covered-buildings) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/nikhilcharan-dev/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3606-coupon-code-validator](https://github.com/nikhilcharan-dev/Leetcode/tree/master/3606-coupon-code-validator) |
 ## Math
 |  |
 | ------- |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2141-maximum-running-time-of-n-computers](https://github.com/nikhilcharan-dev/Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/nikhilcharan-dev/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3531-count-covered-buildings](https://github.com/nikhilcharan-dev/Leetcode/tree/master/3531-count-covered-buildings) |
+| [3606-coupon-code-validator](https://github.com/nikhilcharan-dev/Leetcode/tree/master/3606-coupon-code-validator) |
 ## Two Pointers
 |  |
 | ------- |
@@ -96,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/nikhilcharan-dev/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0072-edit-distance](https://github.com/nikhilcharan-dev/Leetcode/tree/master/0072-edit-distance) |
 | [2211-count-collisions-on-a-road](https://github.com/nikhilcharan-dev/Leetcode/tree/master/2211-count-collisions-on-a-road) |
+| [3606-coupon-code-validator](https://github.com/nikhilcharan-dev/Leetcode/tree/master/3606-coupon-code-validator) |
 ## Bit Manipulation
 |  |
 | ------- |
