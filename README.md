@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/nikhilcharan-dev/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0072-edit-distance](https://github.com/nikhilcharan-dev/Leetcode/tree/master/0072-edit-distance) |
+| [0131-palindrome-partitioning](https://github.com/nikhilcharan-dev/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [1013-fibonacci-number](https://github.com/nikhilcharan-dev/Leetcode/tree/master/1013-fibonacci-number) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/nikhilcharan-dev/Leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/nikhilcharan-dev/Leetcode/tree/master/3742-maximum-path-score-in-a-grid) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/nikhilcharan-dev/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0072-edit-distance](https://github.com/nikhilcharan-dev/Leetcode/tree/master/0072-edit-distance) |
+| [0131-palindrome-partitioning](https://github.com/nikhilcharan-dev/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [2211-count-collisions-on-a-road](https://github.com/nikhilcharan-dev/Leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [3606-coupon-code-validator](https://github.com/nikhilcharan-dev/Leetcode/tree/master/3606-coupon-code-validator) |
 ## Bit Manipulation
@@ -122,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/nikhilcharan-dev/Leetcode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+## Backtracking
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/nikhilcharan-dev/Leetcode/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
