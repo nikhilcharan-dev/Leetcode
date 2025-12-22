@@ -15,9 +15,7 @@ public:
         
         if(i > n - 1) return;
 
-        string c(1, s[i]);
-
-        cur.push_back(c);
+        cur.push_back(string(1, s[i]));
         if(pip) helper(s, i + 1, cur, n, pip);
         cur.pop_back();
 
