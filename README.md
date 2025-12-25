@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/nikhilcharan-dev/Leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2625-increment-submatrices-by-one](https://github.com/nikhilcharan-dev/Leetcode/tree/master/2625-increment-submatrices-by-one) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/nikhilcharan-dev/Leetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/nikhilcharan-dev/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/nikhilcharan-dev/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/nikhilcharan-dev/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/nikhilcharan-dev/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2141-maximum-running-time-of-n-computers](https://github.com/nikhilcharan-dev/Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/nikhilcharan-dev/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/nikhilcharan-dev/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3531-count-covered-buildings](https://github.com/nikhilcharan-dev/Leetcode/tree/master/3531-count-covered-buildings) |
 | [3606-coupon-code-validator](https://github.com/nikhilcharan-dev/Leetcode/tree/master/3606-coupon-code-validator) |
 ## Two Pointers
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2141-maximum-running-time-of-n-computers](https://github.com/nikhilcharan-dev/Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/nikhilcharan-dev/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Stack
 |  |
 | ------- |
