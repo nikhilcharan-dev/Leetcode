@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0717-1-bit-and-2-bit-characters](https://github.com/nikhilcharan-dev/Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0885-spiral-matrix-iii](https://github.com/nikhilcharan-dev/Leetcode/tree/master/0885-spiral-matrix-iii) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/nikhilcharan-dev/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/nikhilcharan-dev/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/nikhilcharan-dev/Leetcode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/nikhilcharan-dev/Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/nikhilcharan-dev/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/nikhilcharan-dev/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/nikhilcharan-dev/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3531-count-covered-buildings](https://github.com/nikhilcharan-dev/Leetcode/tree/master/3531-count-covered-buildings) |
