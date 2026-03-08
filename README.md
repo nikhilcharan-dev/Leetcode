@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/nikhilcharan-dev/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1390-four-divisors](https://github.com/nikhilcharan-dev/Leetcode/tree/master/1390-four-divisors) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/nikhilcharan-dev/Leetcode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
+| [1980-find-unique-binary-string](https://github.com/nikhilcharan-dev/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/nikhilcharan-dev/Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/nikhilcharan-dev/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/nikhilcharan-dev/Leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/nikhilcharan-dev/Leetcode/tree/master/0001-two-sum) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/nikhilcharan-dev/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1980-find-unique-binary-string](https://github.com/nikhilcharan-dev/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/nikhilcharan-dev/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/nikhilcharan-dev/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3531-count-covered-buildings](https://github.com/nikhilcharan-dev/Leetcode/tree/master/3531-count-covered-buildings) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/nikhilcharan-dev/Leetcode/tree/master/0072-edit-distance) |
 | [0131-palindrome-partitioning](https://github.com/nikhilcharan-dev/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/nikhilcharan-dev/Leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
+| [1980-find-unique-binary-string](https://github.com/nikhilcharan-dev/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2211-count-collisions-on-a-road](https://github.com/nikhilcharan-dev/Leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [3606-coupon-code-validator](https://github.com/nikhilcharan-dev/Leetcode/tree/master/3606-coupon-code-validator) |
 ## Bit Manipulation
@@ -141,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/nikhilcharan-dev/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [1980-find-unique-binary-string](https://github.com/nikhilcharan-dev/Leetcode/tree/master/1980-find-unique-binary-string) |
 ## Tree
 |  |
 | ------- |
