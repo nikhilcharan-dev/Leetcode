@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-four-divisors](https://github.com/nikhilcharan-dev/Leetcode/tree/master/1390-four-divisors) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/nikhilcharan-dev/Leetcode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1980-find-unique-binary-string](https://github.com/nikhilcharan-dev/Leetcode/tree/master/1980-find-unique-binary-string) |
+| [2090-k-radius-subarray-averages](https://github.com/nikhilcharan-dev/Leetcode/tree/master/2090-k-radius-subarray-averages) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/nikhilcharan-dev/Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/nikhilcharan-dev/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/nikhilcharan-dev/Leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [2090-k-radius-subarray-averages](https://github.com/nikhilcharan-dev/Leetcode/tree/master/2090-k-radius-subarray-averages) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/nikhilcharan-dev/Leetcode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Backtracking
 |  |
