@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nikhilcharan-dev/Leetcode/tree/master/0001-two-sum) |
+| [0152-maximum-product-subarray](https://github.com/nikhilcharan-dev/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/nikhilcharan-dev/Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0885-spiral-matrix-iii](https://github.com/nikhilcharan-dev/Leetcode/tree/master/0885-spiral-matrix-iii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/nikhilcharan-dev/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/nikhilcharan-dev/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0072-edit-distance](https://github.com/nikhilcharan-dev/Leetcode/tree/master/0072-edit-distance) |
 | [0131-palindrome-partitioning](https://github.com/nikhilcharan-dev/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0152-maximum-product-subarray](https://github.com/nikhilcharan-dev/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [1013-fibonacci-number](https://github.com/nikhilcharan-dev/Leetcode/tree/master/1013-fibonacci-number) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/nikhilcharan-dev/Leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/nikhilcharan-dev/Leetcode/tree/master/3742-maximum-path-score-in-a-grid) |
