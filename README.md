@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nikhilcharan-dev/Leetcode/tree/master/0001-two-sum) |
+| [0040-combination-sum-ii](https://github.com/nikhilcharan-dev/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0152-maximum-product-subarray](https://github.com/nikhilcharan-dev/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/nikhilcharan-dev/Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0885-spiral-matrix-iii](https://github.com/nikhilcharan-dev/Leetcode/tree/master/0885-spiral-matrix-iii) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/nikhilcharan-dev/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/nikhilcharan-dev/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [1980-find-unique-binary-string](https://github.com/nikhilcharan-dev/Leetcode/tree/master/1980-find-unique-binary-string) |
 ## Tree
