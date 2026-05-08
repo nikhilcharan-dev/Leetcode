@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/nikhilcharan-dev/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0072-edit-distance](https://github.com/nikhilcharan-dev/Leetcode/tree/master/0072-edit-distance) |
+| [0115-distinct-subsequences](https://github.com/nikhilcharan-dev/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/nikhilcharan-dev/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/nikhilcharan-dev/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [1013-fibonacci-number](https://github.com/nikhilcharan-dev/Leetcode/tree/master/1013-fibonacci-number) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/nikhilcharan-dev/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0072-edit-distance](https://github.com/nikhilcharan-dev/Leetcode/tree/master/0072-edit-distance) |
+| [0115-distinct-subsequences](https://github.com/nikhilcharan-dev/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/nikhilcharan-dev/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/nikhilcharan-dev/Leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1980-find-unique-binary-string](https://github.com/nikhilcharan-dev/Leetcode/tree/master/1980-find-unique-binary-string) |
